@@ -2,6 +2,8 @@
 
 Take a turn at the [MIT Moral Machine](http://moralmachine.mit.edu/)
 
+Explore the system, and create your own scenario too.
+
 Read this Article: Verma's [What Moral Code Should Your Self-Driving Car Follow](https://www.delltechnologies.com/en-us/perspectives/what-moral-code-should-your-self-driving-car-follow)
  
 On edublogs, make a post discussing this:
